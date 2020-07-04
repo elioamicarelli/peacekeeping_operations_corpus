@@ -5,3 +5,7 @@ This is a public repo for the peacekeeping operations corpus (PKOC). Here you ca
 In the document *PKOC0A03.pdf* you will find the PKOC functions' documentation as well as a vignette showing how to recreate PKOC from scratch.
 
 The code is in *PKOC_main.py*.
+
+Useful resources:
+
+https://chromedriver.chromium.org/
