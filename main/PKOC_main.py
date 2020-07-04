@@ -523,7 +523,7 @@ def corpus_create_tpkoc(plain_corpus = ppkoc):
 
 ## From BASH move to the folder where you have the pdf and run the following line:
 
-# for file in *.pdf; do pdftotext -layout "$file"; done 
+# for file in *.pdf; do pdftotext "$file"; done 
 ## Alternatively you can try to use the pdftotext package in python...
 
 ## Move things around
