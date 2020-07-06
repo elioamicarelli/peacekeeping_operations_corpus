@@ -6,6 +6,10 @@ This is a public repo for the peacekeeping operations corpus (PKOC). Here you ca
 
 - The code is in *main/PKOC_main.py* (Python 3). At the very end of this file there is a commented section showing the entire workflow for the corpus creation.
 
+Notes:
+
+- Please notice that results presented in this reports may not be using the latest updated versionof the corpus.
+
 Useful resources:
 
 https://chromedriver.chromium.org/
