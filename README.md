@@ -1,4 +1,4 @@
-# About this repo
+# About this repo 🦚🦚🦚
 
 This is a public repo for the peacekeeping operations corpus (PKOC). Here you can find the code and documentation needed to create the corpus from scratch as well as the data already cooked for you as described in ["Introducing the PeaceKeeping Operations Corpus (PKOC)".](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3530404)
 
@@ -8,7 +8,7 @@ This is a public repo for the peacekeeping operations corpus (PKOC). Here you ca
 
 - In the *data* folder you can find the raw corpus txt files. From this link it's possible to download three pickle files containing the plain, tagged and reduced version of PKOC (see our paper for details). The corpora are structured as python dictionaries. 
 
-🦚🦚🦚 Contributions to this project are very welcome!!! 🦚🦚🦚
+Contributions to this project are very welcome!!!
 
 Notes:
 
