@@ -1,4 +1,4 @@
-# About this repo 🦚🦚🦚
+# 🦚 About this repo 🦚
 
 This is a public repo for the peacekeeping operations corpus (PKOC). Here you can find the code and documentation needed to create the corpus from scratch as well as the data already cooked for you as described in ["Introducing the PeaceKeeping Operations Corpus (PKOC)".](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3530404)
 
