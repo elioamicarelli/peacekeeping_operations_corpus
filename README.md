@@ -12,9 +12,9 @@ This is a public repo for the peacekeeping operations corpus (PKOC). Here you ca
 
 Notes:
 
-- Please notice that this repository may contain reports that are not using the latest updated version of the corpus.
-
 - The last update of the shared data is June 2020. 
+
+- Please notice that this repository may contain reports that are not using the latest updated version of the corpus.
 
 Useful resources:
 
