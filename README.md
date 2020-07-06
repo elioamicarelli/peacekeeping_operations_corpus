@@ -8,7 +8,7 @@ This is a public repo for the peacekeeping operations corpus (PKOC). Here you ca
 
 Notes:
 
-- Please notice that this repository may contain reports that may not be using the latest updated version of the corpus.
+- Please notice that this repository may contain reports that are not using the latest updated version of the corpus.
 
 Useful resources:
 
