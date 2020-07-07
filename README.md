@@ -4,7 +4,7 @@ This is a public repo for the peacekeeping operations corpus (PKOC). Here you ca
 
 - In the document *documentation/PKOC0A03.pdf* you will find the PKOC functions' documentation as well as important info on how you should set up your local environment to succesfully execute the corpus creation workflow. Read this file.
 
-- The code is in *main/PKOC_main.py* (Python 3). At the very end of this file there is a commented section showing the entire workflow for the corpus creation.
+- The code needed to create the corpus from scratch is in *main/PKOC_main.py* (Python 3). At the very end of this file there is a commented section showing the entire workflow for the corpus creation.
 
 - The *data* can be downloaded from https://dataverse.harvard.edu/dataverse/pkoc. There you will find three pickle files containing python dictiories for the  plain, tagged and reduced version of PKOC (see our paper for details). If you want to cook the data by yourself we also share the all the reports converted to txt.
 
