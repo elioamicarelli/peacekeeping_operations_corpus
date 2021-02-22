@@ -14,7 +14,7 @@ Notes:
 
 - The last update of the shared data is June 2020. 
 
-- Please notice that this repository may contain reports that are not using the latest updated version of the corpus.
+- Please notice that this repository may contain reports that are not using the latest version of the corpus.
 
 Useful resources:
 
