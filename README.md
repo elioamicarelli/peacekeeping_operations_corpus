@@ -1,6 +1,6 @@
 # 🦚 About this repo 🦚
 
-This is a public repo for the peacekeeping operations corpus (PKOC). Here you can find the code and documentation needed to create the corpus from scratch as well as the data already cooked for you as described in ["Amicarelli, Elio and Di Salvatore, Jessica, Introducing the PeaceKeeping Operations Corpus (PKOC)".](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3530404)
+This is a public repo for the peacekeeping operations corpus (PKOC). Here you can find the code and documentation needed to create the corpus from scratch as well as the data already cooked for you as described in ["Amicarelli, Elio and Di Salvatore, Jessica, Introducing the PeaceKeeping Operations Corpus (PKOC)".](https://journals.sagepub.com/doi/full/10.1177/0022343320978693)
 
 - In the document *documentation/PKOC0A03.pdf* you will find the PKOC functions' documentation as well as important info on how you should set up your local environment to succesfully execute the corpus creation workflow. Read this file.
 
